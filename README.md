@@ -69,3 +69,10 @@ F1 Score:
 
 
 - F1 Score of the Easy Ensemble AdaBoost Classifier: 0.97 = 97%
+
+
+
+## Summary
+Precision score for all was 99%, accuracy and sensitivity scores varied accross board. The Ensemble AdaBoost Classifier had the highest accuracy and Recall scores, at 92% and 94% respectively.
+
+Therefore, I recommend that the Easy Ensemble AdaBoost Classifier machine learning model be used to forecast credit risk based on the results and additional data analysis. It constantly received the greatest ratings, especially in terms of accuracy, precision, and sensitivity, and hence successfully predicted the outcomes when compared to the other models.
